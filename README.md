@@ -165,15 +165,16 @@ http://localhost:5173
 ```
 ---
 # Future Enhancements
+```txt
 -Team Chat System
 -Notifications
 -File Uploads
 -Activity Logs
 -Email Alerts
 -Drag and Drop Task Board
-
+```
 ## Author
 Gadamsetty Lahari
 
-##License
+## License
 This project is developed for educational and assignment purposes.
