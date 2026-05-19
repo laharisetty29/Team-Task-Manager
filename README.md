@@ -174,7 +174,7 @@ Email Alerts
 Drag and Drop Task Board
 ```
 ## Author
-Gadamsetty Lahari
+Lahari Gadamsetty
 
 ## License
 This project is developed for educational and assignment purposes.
