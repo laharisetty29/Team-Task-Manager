@@ -164,14 +164,14 @@ npm run dev
 http://localhost:5173
 ```
 ---
-# Future Enhancements
-```txt
--Team Chat System
--Notifications
--File Uploads
--Activity Logs
--Email Alerts
--Drag and Drop Task Board
+## Future Enhancements
+```
+Team Chat System
+Notifications
+File Uploads
+Activity Logs
+Email Alerts
+Drag and Drop Task Board
 ```
 ## Author
 Gadamsetty Lahari
